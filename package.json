@@ -1,0 +1,24 @@
+{
+  "name": "csgo-skin-snipers",
+  "version": "1.0.0",
+  "description": "Collection of scripts to \"snipe\" CSGO skins from various websites",
+  "main": "config.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easton-s/csgo-skin-snipers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easton-s/csgo-skin-snipers/issues"
+  },
+  "homepage": "https://github.com/easton-s/csgo-skin-snipers#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "mongoose": "^6.4.0",
+    "socket.io-client": "^4.5.1",
+    "socket.io-client-2x": "npm:socket.io-client@^2.4.0"
+  }
+}
