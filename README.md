@@ -1,7 +1,7 @@
 # csgo-skin-snipers
 Collection of scripts to "snipe" CSGO skins from various websites
 
-Thought about deploying these to a service like AWS lambda, we will have to see.
+# I HIGHLY DOUBT THAT ANY OF THESE STILL WORK
 
 ### If any site updates their APIs I cannot promise any of these files will continue to run.
 
